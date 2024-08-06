@@ -1,4 +1,4 @@
 # test
 
-Teste de pr
+Teste de pr.
 ### mude algo aqui 
